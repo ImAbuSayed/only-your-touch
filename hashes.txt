@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Only Your Touch
+
+This log tracks the cryptographic history and versioning for the song **Only Your Touch** (only-your-touch).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-06-01T03:28:48.795531 | `v1` | `be867998d7015858d309a947b9e986cfd494f126e01d86a69bf3d27f490367b4` | `bdbba85574b5935490515922245d2f61654ba785947227c6981f0f2c145df48b` | `2026-06-01_only-your-touch-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
